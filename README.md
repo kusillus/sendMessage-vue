@@ -1,6 +1,7 @@
 # send-message
 
 > el btn de enviar mensaje activa un input en el cual agregaremos correos para enviar una data
+>para ver el proyecto en vivo entra a https://goo.gl/7njVPB
 
 ## Build Setup
 
